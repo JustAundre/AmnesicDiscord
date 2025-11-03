@@ -3,9 +3,9 @@
 <details>
   <summary>⚠️🛑⚠️ <b>DISCLAIMER</b> ⚠️🛑⚠️</summary>
 
-  <p><b>Disclaimer: I am <em>not</em> responsible for any data you intended to retain on Discord but accidentally deleted as a result of your use of this project and its code, nor am I responsible for the actions Discord may enforce against your account for breaking their Terms of Service for self-botting as <a href="#discord-forget-it-all-now">Chapter Descent</a> does. For more information, please visit their <a href="https://discord.com/terms">Terms of Service</a> page & their <a href="https://discord.com/guidelines">Community Guidelines</a> page.</b></p>
+  <p><b>Disclaimer: I am <em>not</em> responsible for any data you intended to retain on Discord but accidentally deleted as a result of your use of this project and its code, nor am I responsible for the actions Discord may enforce against your account for breaking their Terms of Service for self-botting as <a href="#chapter-descent">Chapter Descent</a> does. For more information, please visit their <a href="https://discord.com/terms">Terms of Service</a> page & their <a href="https://discord.com/guidelines">Community Guidelines</a> page.</b></p>
 
-  <p>You may also disregard the disclaimer if you want to proceed by skipping <a href="#Discord-forget-it-all-now">Chapter Descent</a> entirely, which is possible, and in few cases, entirely not needed if <a href="#discord-forget-that-please">Chapter Climax</a> yields results which achieve what the intention of <a href="#discord-forget-it-all-now">Chapter Descent</a> is, which as well as clearing messages, may also remove messages you <em>also have access to</em>!</p>
+  <p>You may also disregard the disclaimer if you want to proceed by skipping <a href="#chapter-descent">Chapter Descent</a> entirely, which is possible, and in few cases, entirely not needed if <a href="#chapter-climax">Chapter Climax</a> yields results which achieve what the intention of <a href="#chapter-descent">Chapter Descent</a> is, which as well as clearing messages, may also remove messages you <em>also have access to</em>!</p>
 </details>
 
 <p>If you intend to use this project safely and with <em>REDUCED</em> chances of enforcement action upon your account, please keep the <b>safe delay</b> toggle <b><em>on</em></b>.</p>
@@ -16,8 +16,8 @@
 </details>
 
 <hr>
-<h2>"Discord, what do you remember?"</h2>
-<h3>Chapter Rising</h3>
+<h2 id="discord-what-do-you-remember">"Discord, what do you remember?"</h2>
+<h3 id="chapter-rising">Chapter Rising</h3>
 <p>Let's gather what they (<em>Discord</em>) knows! (By requesting all the messages you've ever sent) <br></p>
 <p>Desktop/Discord Web go <a href="https://support.discord.com/hc/en-us/articles/360004957991-Your-Discord-Data-Package#h_01JV2QTH9Q7VZPVXJ5SX9ZAEYD">here</a> <br></p>
 <p>Mobile users, you'll go <a href="https://support.discord.com/hc/en-us/articles/360004957991-Your-Discord-Data-Package#h_01JV2QTH9QYN9JKZ1D9KC22ZFT">here</a></p>
@@ -60,8 +60,8 @@ brew install python
 <p>By the end of this, you should have 3 lists compiled; <b>server IDs</b>, <b>user IDs</b> & <b>group DM channel IDs</b>. You'll need these lists after our next chapter.</p>
 
 <hr>
-<h2>"Discord, forget that please."</h2>
-<h3>Chapter Climax</h3>
+<h2 id="discord-forget-that-please">"Discord, forget that please."</h2>
+<h3 id="chapter-climax">Chapter Climax</h3>
 <p>Let's remove the messages you <em>can't</em> access. For this, we'll be making support request/ticket with <a href="https://support.discord.com/hc/en-us/requests/new">Discord's Zendesk</a> <br></p>
 <p>Sign up for Zendesk and login, or just login if you already have an account (Refrain from uploading sensitive as much as possible, out of concern for dataleaks such as <a href="https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service.">this one</a>.)</p>
 
@@ -78,7 +78,7 @@ Thank you in advance,
 (Full name/Full online alias).
 </code></pre>
   <p>^^^ (The <a href="https://www.dictionary.com/browse/latter">latter</a> is recommended). ^^^ <br></p>
-  <p>Remember to attach the <b>CSV file</b> containing your messages for the <b>Trust & Safety team</b> to process. Don't worry too much about any invalid references to messages as Discord will kindly skip over those for you as they have me and others (although; you shouldn't have any of those if you've done <a href="#Discord-what-do-you-remember">Chapter Rising</a> as instructed).</p>
+  <p>Remember to attach the <b>CSV file</b> containing your messages for the <b>Trust & Safety team</b> to process. Don't worry too much about any invalid references to messages as Discord will kindly skip over those for you as they have me and others (although; you shouldn't have any of those if you've done <a href="#discord-what-do-you-remember">Chapter Rising</a> as instructed).</p>
 </details>
 
 <details>
@@ -97,8 +97,8 @@ Messages with invalid or incorrect message/channel IDs will not be processed.
 <p>If Discord is a prick and would like to make you manually delete all messages that you still have access to... unfortunately for you, please proceed to the next chapter.</p>
 
 <hr>
-<h2>"Discord, forget it all. <em>Now.</em>"</h2>
-<h3>Chapter Descent - <b>&lt;CODE IN ALPHA: NOT FINISHED&gt;</b></h3>
+<h2 id="discord-forget-it-all-now">"Discord, forget it all. <em>Now.</em>"</h2>
+<h3 id="chapter-descent">Chapter Descent - <b>&lt;CODE IN ALPHA: NOT FINISHED&gt;</b></h3>
 
 <details>
   <summary>Why choose this over something like Discrub?</summary>
@@ -111,8 +111,8 @@ Messages with invalid or incorrect message/channel IDs will not be processed.
 </details>
 
 <hr>
-<h2>"Goodbye, Discord."</h2>
-<h3>Last Page; Resolution</h3>
+<h2 id="goodbye-discord">"Goodbye, Discord."</h2>
+<h3 id="last-page-resolution">Last Page; Resolution</h3>
 <p><a href="https://support.discord.com/hc/en-us/articles/212500837-How-to-Delete-your-Discord-Account"><b>Delete your account.</b></a></p>
 
 <details>
@@ -122,9 +122,9 @@ Messages with invalid or incorrect message/channel IDs will not be processed.
 
   <p>Blessings to every maintainer, contributor, creator and sponser of the <a href="https://thorium.rocks/">Thorium Browser</a>, <a href="https://ungoogled-software.github.io/ungoogled-chromium-binaries/">Ungoogled Chromium</a> and <a href="https://www.firefox.com/en-US/">Firefox</a>, which are the browsers I cannot decide between and thank for being available across so many platforms, and especially the up and coming <a href="https://ladybird.org/">Ladybird Web Browser</a> which I wish I could back with more than just my words and can't wait for their 1.0 release someday.</p>
 
-  <p>Special thanks and credits to <a href="https://www.youtube.com/watch?v=g5FbRfwMEuo">NTTS's video</a> on this topic & The <a href="https://github.com/prathercc">creator(s)</a> & <a href="https://github.com/prathercc/discrub-ext/issues?q=is%3Aissue%20state%3Aclosed">contributors</a> of the <a href="https://github.com/prathercc/discrub-ext">Discrub</a> extension for Chrome <em>& Firefox</em> for being a good chunk of my information & being an inspiration for this project respectively.</p>
+  <p>Special thanks and credits to <a href="https://www.youtube.com/watch?v=g5FbRfwMEuo"><b>NTTS</b>'s video</a> on this topic & The <a href="https://github.com/prathercc">creator(s)</a> & <a href="https://github.com/prathercc/discrub-ext/issues?q=is%3Aissue%20state%3Aclosed">contributors</a> of the <a href="https://github.com/prathercc/discrub-ext">Discrub</a> extension for Chrome <em>& Firefox</em> for being a good chunk of my information & being an inspiration for this project respectively.</p>
 
-  <p>High praise to <b>John Gruber</b> & <b>Aaron Swartz</b>, creators of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown file format</a> and Garen Torikian, creator of the <a href="https://www.markdowntutorial.com/lesson/1/">MD Tutorial</a> whose source code is found at their <a href="https://github.com/gjtorikian/markdowntutorial.com">respective repository</a>.</p>
+  <p>High praise to <b>John Gruber</b> & <b>Aaron Swartz</b>—creators of the <a href="https://en.wikipedia.org/wiki/Markdown">markdown file format</a>, <b>Garen Torikian</b>—creator of the <a href="https://www.markdowntutorial.com/lesson/1/">MD Tutorial</a> whose source code is found at their <a href="https://github.com/gjtorikian/markdowntutorial.com">respective repository</a>, & the honorable people with their no-analytics, free software philosophy who work at DigitalPro & made <a href="https://markdownlivepreview.dev">MarkdownLivePreview</a>.</p>
 
   <p>Best wishes for the <a href="https://www.ietf.org/">IETF</a>, main standardizer of the <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV (Comma-separated values) filetype</a>, which is a somewhat standard format for storing data now.</p>
 
