@@ -107,7 +107,7 @@ Messages with invalid or incorrect message/channel IDs will not be processed.
   <p>Don't take this the wrong way, I don't think I would be doing all this now without the existence of Discrub.</p>
 </details>
 
-Go to the AmnesicDiscord project's [scrubbing page](https://justaundre.github.io/AmnesicDiscord/main/) & enter the channel ID list, guild ID list, the user ID list,your user ID & authentication token. The 3 lists for scrubbing, the authentication token to interact with data on your account, and your user ID to search for specifically only your messages. Preferably, keep <b>safe delay</b> on.
+Go to the AmnesicDiscord project's [scrubbing page](https://justaundre.github.io/AmnesicDiscord/main/) & enter the channel ID list, guild ID list, the user ID list,your user ID & authentication token. The 3 lists for scrubbing, the authentication token to interact with data on your account, & your user ID to search for specifically only your messages. Preferably, keep <b>safe delay</b> on.
 
 <h2 id="goodbye-discord">"Goodbye, Discord."</h2>
 <h3 id="last-page-resolution" style="font-size: .85em; opacity: .8; margin: unset;">Last Page; Resolution</h3>
