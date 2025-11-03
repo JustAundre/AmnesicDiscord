@@ -1,6 +1,8 @@
 # AmnesicDiscord: As per GDPR; forget me.
 Discord remembers too well—let's sweep-the-leg them with the iconic duo, the leveraging of the [GDPR](https://gdpr-info.eu/art-17-gdpr/) and the fact that their [API](https://www.cloudflare.com/learning/security/api/what-is-an-api/) is basically accessible to every domain. <br>
-**Disclaimer: I am *not* responsible for any data you intended to retain on Discord but accidentally deleted as a result of your use of this project and its code, nor am I responsible for the actions Discord may enforce against your account for breaking their Terms of Service for self-botting as [Chapter Descent](#Discord-forget-it-all-now) does. For more information, please visit their [Terms of Service](https://discord.com/terms) page & their [Community Guidelines](https://discord.com/guidelines) page.**
+**Disclaimer: I am *not* responsible for any data you intended to retain on Discord but accidentally deleted as a result of your use of this project and its code, nor am I responsible for the actions Discord may enforce against your account for breaking their Terms of Service for self-botting as [Chapter Descent](#discord-forget-it-all-now) does. For more information, please visit their [Terms of Service](https://discord.com/terms) page & their [Community Guidelines](https://discord.com/guidelines) page.**
+
+You may also disregard the disclaimer if you want to proceed by skipping [Chapter Descent](#Discord-forget-it-all-now) entirely, which is possible, and in few cases, entirely not needed if [Chapter Climax](#discord-forget-that-please) yields results which achieve what the intention of [Chapter Descent](#discord-forget-it-all-now) is, which as well as clearing messages, may also remove messages you *also have access to*!
 
 If you intend to use this project safely and with *(REDUCED)* chances of enforcement action upon your account, please keep the `safe delay` toggle ***on***.
 <details>
