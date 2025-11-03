@@ -1,8 +1,12 @@
 # AmnesicDiscord: As per GDPR; forget me.
 Discord remembers too well—let's sweep-the-leg them with the iconic duo, the leveraging of the [GDPR](https://gdpr-info.eu/art-17-gdpr/) and the fact that their [API](https://www.cloudflare.com/learning/security/api/what-is-an-api/) is basically accessible to every domain. <br>
-**Disclaimer: I am *not* responsible for any data you intended to retain on Discord but accidentally deleted as a result of your use of this project and its code, nor am I responsible for the actions Discord may enforce against your account for breaking their Terms of Service for self-botting as [Chapter Descent](#discord-forget-it-all-now) does. For more information, please visit their [Terms of Service](https://discord.com/terms) page & their [Community Guidelines](https://discord.com/guidelines) page.**
+<details>
+  <summary>⚠️🛑⚠️ DISCLAIMER ⚠️🛑⚠️</summary>
 
-You may also disregard the disclaimer if you want to proceed by skipping [Chapter Descent](#Discord-forget-it-all-now) entirely, which is possible, and in few cases, entirely not needed if [Chapter Climax](#discord-forget-that-please) yields results which achieve what the intention of [Chapter Descent](#discord-forget-it-all-now) is, which as well as clearing messages, may also remove messages you *also have access to*!
+  **Disclaimer: I am *not* responsible for any data you intended to retain on Discord but accidentally deleted as a result of your use of this project and its code, nor am I responsible for the actions Discord may enforce against your account for breaking their Terms of Service for self-botting as [Chapter Descent](#discord-forget-it-all-now) does. For more information, please visit their [Terms of Service](https://discord.com/terms) page & their [Community Guidelines](https://discord.com/guidelines) page.**
+
+  You may also disregard the disclaimer if you want to proceed by skipping [Chapter Descent](#Discord-forget-it-all-now) entirely, which is possible, and in few cases, entirely not needed if [Chapter Climax](#discord-forget-that-please) yields results which achieve what the intention of [Chapter Descent](#discord-forget-it-all-now) is, which as well as clearing messages, may also remove messages you *also have access to*!
+</details>
 
 If you intend to use this project safely and with *(REDUCED)* chances of enforcement action upon your account, please keep the `safe delay` toggle ***on***.
 <details>
@@ -20,7 +24,7 @@ Mobile users, you'll go [here](https://support.discord.com/hc/en-us/articles/360
 You'll follow as they say, *except for when you get to the page to select what data you're requesting,* you'll ask only for your *messages*. <br>
 Go ahead and download the bulk-deletion helper from [their own Repository](https://github.com/ishnz/bulk_deletion_helper)
 <details>
-  <summary>Cavet to users on Linux and other Unix systems like MacOS</summary>
+  <summary>Cavet to users on Linux/MacOS and other Unix systems</summary>
 
   Applying to *users on [Unix-based systems](https://fsl.fmrib.ox.ac.uk/fslcourse/unix_intro/whatis.html) only,* the scripts provided in this repo reference the messages folder with the wrong capitalization as noted in [this pull request](https://github.com/ishnz/bulk_deletion_helper/pull/16) as of November 2nd, 2025 \(11/2/2025\).
 
@@ -88,38 +92,52 @@ Sign up for Zendesk and login, or just login if you already have an account (Ref
   ```
 </details>
 
-On following emails (if any come) which require your intervention to proceed, be firm but polite, understanding and legible. <br>
+On follow-up emails which require your intervention to proceed (if any), be firm but polite, understanding and formal. <br>
 In my case, I got lucky; and without backlash, in 1 swift email, bascially everything I couldn't access was gone with the wind. <br>
 If Discord says they deleted *everything*, and I mean *everything*... Congrats; your journey has shortend and you may skip the next chapter. <br>
-If Discord is a prick and would like to make you manually delete all messages that you still have access to—
-<details>
-  <summary>Discord sucks. 😩</summary>
-
-  (This is including messages with people you aren't friends with anymore but still have DMed or with deleted users which is only accessible by querying a search for all messages from your past self using the flexible global DMs search (which is ONLY AVAILABLE ON THE MOBILE APP 😩))
-
-  If you know anything about a way to use the global DM search via API, which so far I've found to be only usable via the mobile frontend for Discord, please DM me on Github.
-</details>
-
-*\<pause and loud inhale for heightend emphasis on how stupid it is for us to need to do this\>*, unfortunately for you, please proceed to the next chapter.
+If Discord is a prick and would like to make you manually delete all messages that you still have access to... unfortunately for you, please proceed to the next chapter.
 
 ## "Discord, forget it all. *Now.*"
-Chapter Descent - **\<CODE IN ALPHA: NOT FINISHED\>**
+Chapter Descent - **\<CODE IN ALPHA: NOT FINISHED\>** <br>
+
+<details>
+  <summary>Why choose this over something like Discrub?</summary>
+
+  [Discrub](https://github.com/prathercc/discrub-ext) can only scrub DMs with people you already have open DMs with; otherwise, have fun scrubbing those messages. <br>
+  While the goal of [Discrub](https://github.com/prathercc/discrub-ext) is a data exporting tool *& data removal* tool, that makes it less optimized for being either. "Jack of all cards, master of none." -They say. <br>
+  My script is optimized to only do what is needed for removing your data; you don't need to see what messages you're deleting if you're deleting them all, nor their reaction data. With [Discrub](https://github.com/prathercc/discrub-ext), if you give it 0 delay between requests; it does 0 delay... by continuing to spam even after getting a [429](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/429) error back. As for the script I made, it will gracefully listen to the [retry_after](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Retry-After) value Discord returns during a [429](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/429) error.
+
+  Don't take this the wrong way, I don't think I would be doing all this now without the existence of Discrub.
+</details>
 
 ## "Goodbye, Discord."
 Last Page; Resolution <br>
 [**Delete your account.**](https://support.discord.com/hc/en-us/articles/212500837-How-to-Delete-your-Discord-Account)
 
-## Credits
-Blessings to every maintainer, contributor, creator and sponser of the [Thorium Browser](https://thorium.rocks/), [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) and [Firefox](https://www.firefox.com/en-US/), which are the browsers I cannot decide between and thank for being available across so many platforms, and especially the up and coming [Ladybird Web Browser](https://ladybird.org/) which I wish I could back with more than just my words and can't wait for their 1.0 release someday.
+<details>
+  <summary>Credits where it's due</summary>
 
-Special thanks and credits to [NTTS's video](https://www.youtube.com/watch?v=g5FbRfwMEuo) on this topic & The [creator(s)](https://github.com/prathercc) & [contributors](https://github.com/prathercc/discrub-ext/issues?q=is%3Aissue%20state%3Aclosed) of the [Discrub](https://github.com/prathercc/discrub-ext) extension for Chrome *& Firefox* for being a good chunk of my information & being an inspiration for this project respectively.
+  ## Credits
 
-High praise to **John Gruber** & **Aaron Swartz**, creators of the [markdown file format](https://en.wikipedia.org/wiki/Markdown) and Garen Torikian, creator of the [MD Tutorial](https://www.markdowntutorial.com/lesson/1/) whose source code is found at their [respective repository](https://github.com/gjtorikian/markdowntutorial.com).
+  Blessings to every maintainer, contributor, creator and sponser of the [Thorium Browser](https://thorium.rocks/), [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) and [Firefox](https://www.firefox.com/en-US/), which are the browsers I cannot decide between and thank for being available across so many platforms, and especially the up and coming [Ladybird Web Browser](https://ladybird.org/) which I wish I could back with more than just my words and can't wait for their 1.0 release someday.
 
-Best wishes for the [IETF](https://www.ietf.org/), main standardizer of the [CSV (Comma-separated values) filetype](https://en.wikipedia.org/wiki/Comma-separated_values), which is a somewhat standard format for storing data now.
+  Special thanks and credits to [NTTS's video](https://www.youtube.com/watch?v=g5FbRfwMEuo) on this topic & The [creator(s)](https://github.com/prathercc) & [contributors](https://github.com/prathercc/discrub-ext/issues?q=is%3Aissue%20state%3Aclosed) of the [Discrub](https://github.com/prathercc/discrub-ext) extension for Chrome *& Firefox* for being a good chunk of my information & being an inspiration for this project respectively.
 
-Grant the hopes & dreams of the [contributors](https://github.com/discohook/discohook/graphs/contributors) & [initial creator](https://ko-fi.com/shayypy) of [Discohook](https://discohook.app) for letting me spam 5 webhooks at once with the letter "a" in my test Discord server so that I could test my scripts.
+  High praise to **John Gruber** & **Aaron Swartz**, creators of the [markdown file format](https://en.wikipedia.org/wiki/Markdown) and Garen Torikian, creator of the [MD Tutorial](https://www.markdowntutorial.com/lesson/1/) whose source code is found at their [respective repository](https://github.com/gjtorikian/markdowntutorial.com).
 
-Heaven awaits the creator(s) of and the people who forfeit their wonderful works to [SVGrepo](https://svgrepo.com/)
+  Best wishes for the [IETF](https://www.ietf.org/), main standardizer of the [CSV (Comma-separated values) filetype](https://en.wikipedia.org/wiki/Comma-separated_values), which is a somewhat standard format for storing data now.
+
+  Grant the hopes & dreams of the [contributors](https://github.com/discohook/discohook/graphs/contributors) & [initial creator](https://ko-fi.com/shayypy) of [Discohook](https://discohook.app) for letting me spam 5 webhooks at once with the letter "a" in my test Discord server so that I could test my scripts.
+
+  Heaven awaits the creator(s) of and the people who forfeit their wonderful works to [SVGrepo](https://svgrepo.com/)
+</details>
+
+<details>
+  <summary>(Limitations - Discord sucks 😩)</summary>
+
+  If Discord asks you to delete messages yourself, manually... That includes users you aren't friends with anymore but still have DMed even *once* or with deleted users which is only accessible by querying a search for all messages from your past self using the flexible global DMs search (which is ONLY AVAILABLE ON THE MOBILE APP 😩)
+
+  If you know anything about a way to use the global DM search via API, which so far I've found to be only usable via the mobile frontend for Discord, please DM me on Github.
+</details>
 
 P.S. It took me longer than it should've to compile this readme file :3
