@@ -110,9 +110,7 @@ If Discord is a prick and would like to make you manually delete all messages th
 *\<pause and loud inhale for heightend emphasis on how stupid it is for us to need to do this\>*, unfortunately for you, please proceed to the next chapter.
 
 ## "Discord, forget it all. *Now.*"
-Chapter Descent
-
-# \<CODE IN ALPHA: NOT FINISHED\>
+Chapter Descent - **\<CODE IN ALPHA: NOT FINISHED\>**
 
 ## "Goodbye, Discord."
 Last Page; Resolution
