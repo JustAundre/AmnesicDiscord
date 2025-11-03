@@ -30,7 +30,7 @@
   <p>Again, if you are not a Linux user & use Windows; you may ignore this.</p>
 </details>
 
-<p>If you haven't already, install <b>python3</b> from <a href="https://python.org">their webpage</a>; or alternatively, on Linux/Mac OS, using your package manager using one of the 3 command chains belonging to your respective base distribution; you'll need it to run the script.</p>
+<p>If you haven't already, install <b>python3</b> from <a href="https://python.org">their webpage</a>; or alternatively, on Linux/Mac OS, using your package manager using one of the 4 command chains belonging to your respective base systems; you'll need it to run the script.</p>
 <details>
   <summary>Command list</summary>
 
@@ -89,9 +89,9 @@ Messages with invalid or incorrect message/channel IDs will not be processed.
 </code></pre>
 </details>
 
-<p>On follow-up emails which require your intervention to proceed (if any), be firm but polite, underst&ing & formal. <br></p>
-<p>In my case, I got lucky; & without backlash, in 1 swift email, basically everything I couldn't access was gone with the wind. <br></p>
-<p>If Discord says they deleted <em>everything</em>, & I mean <em>everything</em>... Congrats; your journey has shortend & you may skip the next chapter. <br></p>
+<p>On follow-up emails which require your intervention to proceed (if any), be firm but polite, underst&ing & formal.</p>
+<p>In my case, I got lucky; & without backlash, in 1 swift email, basically everything I couldn't access was gone with the wind.</p>
+<p>If Discord says they deleted <em>everything</em>, & I mean <em>everything</em>... Congrats; your journey has shortend & you may skip the next chapter.</p>
 <p>If Discord is a prick & would like to make you manually delete all messages that you still have access to... unfortunately for you, please proceed to the next chapter.</p>
 
 <h2 id="discord-forget-it-all-now">"Discord, forget it all. <em>Now.</em>"</h2>
