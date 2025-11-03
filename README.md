@@ -7,7 +7,7 @@ If you intend to use this project safely and with *(REDUCED)* chances of enforce
 <details>
   <summary>Why the slow, sluggish delay?</summary>
 
-  Because it's more reasonable for someone to be deleting a message or 2, fetching messages & creating DMs with someone every 6-12 than deleting 20 messages in 3 seconds and then waiting exactly the [ratelimit](https://www.cloudflare.com/learning/bots/what-is-rate-limiting/) to proceed.
+  Because it's more reasonable for someone to be deleting a message or 2, fetching messages & creating DMs with someone every 6-12 seconds than deleting 20 messages in 3 seconds and then waiting exactly the [ratelimit](https://www.cloudflare.com/learning/bots/what-is-rate-limiting/) to proceed.
 </details>
 
 ## "Discord, what do you remember?"
