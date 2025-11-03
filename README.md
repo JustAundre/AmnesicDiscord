@@ -23,7 +23,7 @@
 <p>You'll follow as they say, <em>except for when you get to the page to select what data you're requesting,</em> you'll ask only for your <em>messages</em>. <br></p>
 <p>Go ahead & download the bulk-deletion helper from <a href="https://github.com/ishnz/bulk_deletion_helper">their own Repository</a>!</p>
 <details>
-  <summary>Cavet to users on Linux/MacOS & other Unix systems</summary>
+  <summary>Caveat to users on Linux/MacOS & other Unix systems</summary>
 
   <p>Applying to <em>users on <a href="https://fsl.fmrib.ox.ac.uk/fslcourse/unix_intro/whatis.html">Unix-based systems</a> only,</em> the scripts provided in this repo reference the messages folder with the wrong capitalization as noted in this <a href="https://github.com/ishnz/bulk_deletion_helper/pull/16">pull request of theirs</a> as of November 2nd, 2025 (11/2/2025).</p>
 
