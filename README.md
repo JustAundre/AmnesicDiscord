@@ -1,4 +1,4 @@
-<p style="font-size: .85em; opacity: .8; margin: unset;">Discord remembers too well—let's sweep-the-leg them with the iconic duo, the leveraging of the <a href="https://gdpr-info.eu/art-17-gdpr/">GDPR</a> and the fact that their <a href="https://www.cloudflare.com/learning/security/api/what-is-an-api/">API</a> is basically accessible to every domain. <br></p>
+<p>Discord remembers too well—let's sweep-the-leg them with the iconic duo, the leveraging of the <a href="https://gdpr-info.eu/art-17-gdpr/">GDPR</a> and the fact that their <a href="https://www.cloudflare.com/learning/security/api/what-is-an-api/">API</a> is basically accessible to every domain. <br></p>
 <details>
   <summary>⚠️🛑⚠️ <b>DISCLAIMER</b> ⚠️🛑⚠️</summary>
 
