@@ -114,31 +114,31 @@ Heaven awaits the creator(s) of and the people who forfeit their wonderful works
 
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px; padding: 10px; align-items: center;">
   <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
-    <img src="media/image-2.png" alt="Thorium Browser 2025" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="media/image-2.png" alt="Thorium Browser 2025" width="80" height="80">
   </div>
   <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
-    <img src="media/image-1.png" alt="Firefox 2019" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="media/image-1.png" alt="Firefox 2019" width="80" height="80">
   </div>
   <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
-    <img src="media/image.png" alt="Ladybird" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="media/image.png" alt="Ladybird" width="80" height="80">
   </div>
   <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
-    <img src="media/image-3.png" alt="IETF 2025" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="media/image-3.png" alt="IETF 2025" width="80" height="80">
   </div>
   <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
-    <img src="media/image-4.png" alt="No Text to Speech" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="media/image-4.png" alt="No Text to Speech" width="80" height="80">
   </div>
   <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
-    <img src="media/image-5.png" alt="Markdown Text Format" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="media/image-5.png" alt="Markdown Text Format" width="80" height="80">
   </div>
   <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
-    <img src="media/csv.svg" alt="CSV file format" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="media/csv.svg" alt="CSV file format" width="80" height="80">
   </div>
   <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
-    <img src="media/image.svg" alt="Discohook" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="media/image.svg" alt="Discohook" width="80" height="80">
   </div>
   <div style="width: 80px; height: 80px; display: flex; justify-content: center; align-items: center; border-radius: 8px;">
-    <img src="media/svgrepo.png" alt="SVG Repo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="media/svgrepo.png" alt="SVG Repo" width="80" height="80">
   </div>
 </div>
 P.S. It took me longer than it should've to compile this readme file :3
