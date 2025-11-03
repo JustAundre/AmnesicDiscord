@@ -52,10 +52,10 @@
 </details>
 
 <p>Once you have the script(s) downloaded, & your data package extracted—move the script to the same folder as the <code>messages</code> folder (not inside of the <code>messages</code> folder) & run the script their readme.md file tells you to, in order to compile the list of users you've had private DMs with. <br></p>
-<p><img src="media/image.png" alt="How your setup should look" /><br></p>
+<p><img src="media/image.png" alt="How your setup should look"/><br></p>
 <p>You may then also copy the server IDs of the servers you wish to purge yourself from that you're still in, & any group DMs as well. <br></p>
-<p><img src="media/image-1.png" alt="Copying server IDs" /><br></p>
-<p><img src="media/image-2.png" alt="Copying group IDs" /><br></p>
+<p><img src="media/image-1.png" alt="Copying server IDs"/><br></p>
+<p><img src="media/image-2.png" alt="Copying group IDs"/><br></p>
 <p>By the end of this, you should have 3 lists compiled; <b>server IDs</b>, <b>user IDs</b> & <b>group DM channel IDs</b>. You'll need these lists after our next chapter.</p>
 
 <h2 id="discord-forget-that-please">"Discord, forget that please."</h2>
