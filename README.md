@@ -61,7 +61,7 @@ By the end of this, you should have 3 lists compiled; server IDs, user IDs & gro
 
 ## "Discord, forget that please."
 Chapter Climax <br>
-Let's remove the messages you *can't* access. For this, we'll be making support request/ticket with Discord's Zendesk @ (https://support.discord.com/hc/en-us/requests/new). <br>
+Let's remove the messages you *can't* access. For this, we'll be making support request/ticket with [Discord's Zendesk](https://support.discord.com/hc/en-us/requests/new) <br>
 Sign up for Zendesk and login, or just login if you already have an account (Refrain from uploading sensitive as much as possible, out of concern for dataleaks such as [this one](https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service).)
 
 <details>
