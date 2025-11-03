@@ -112,13 +112,15 @@ Best wishes for the [IETF](https://www.ietf.org/), main standardizer of the [CSV
 Grant the hopes & dreams of the [contributors](https://github.com/discohook/discohook/graphs/contributors) & [initial creator](https://ko-fi.com/shayypy) of [Discohook](https://discohook.app) for letting me spam 5 webhooks at once with the letter "a" in my test Discord server so that I could test my scripts. <br>
 Heaven awaits the creator(s) of and the people who forfeit their wonderful works to [SVGrepo](https://svgrepo.com/) <br>
 
-![Thorium Browser 2025](media/image-2.png)
-![Firefox 2019](media/image-1.png)
-![Ladybird](media/image.png)
-![IETF 2025](image-3.png)
-![No Text to Speech](image-4.png)
-![Markdown Text Format](image-5.png)
-![CSV file format](csv.svg)
-![Discohook](image.svg)
-![SVG Repo](svgrepo.png) <br>
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px; padding: 10px;">
+  <img src="media/image-2.png" alt="Thorium Browser 2025" width="100" height="100">
+  <img src="media/image-1.png" alt="Firefox 2019" width="100" height="100">
+  <img src="media/image.png" alt="Ladybird" width="100" height="100">
+  <img src="media/image-3.png" alt="IETF 2025" width="100" height="100">
+  <img src="media/image-4.png" alt="No Text to Speech" width="100" height="100">
+  <img src="media/image-5.png" alt="Markdown Text Format" width="100" height="100">
+  <img src="media/csv.svg" alt="CSV file format" width="100" height="100">
+  <img src="media/image.svg" alt="Discohook" width="100" height="100">
+  <img src="media/svgrepo.png" alt="SVG Repo" width="100" height="100">
+</div>
 P.S. It took me longer than it should've to compile this readme file :3
