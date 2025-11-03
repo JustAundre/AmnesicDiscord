@@ -108,11 +108,16 @@ Last Page; Resolution <br>
 [**Delete your account.**](https://support.discord.com/hc/en-us/articles/212500837-How-to-Delete-your-Discord-Account)
 
 ## Credits
-Blessings to every maintainer, contributor, creator and sponser of the [Thorium Browser](https://thorium.rocks/), [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) and [Firefox](https://www.firefox.com/en-US/), which are the browsers I cannot decide between and thank for being available across so many platforms, and especially the up and coming [Ladybird Web Browser](https://ladybird.org/) which I wish I could back with more than just my words and can't wait for their 1.0 release someday. <br>
-Special thanks and credits to [NTTS's video](https://www.youtube.com/watch?v=g5FbRfwMEuo) on this topic & The [creator(s)](https://github.com/prathercc) & [contributors](https://github.com/prathercc/discrub-ext/issues?q=is%3Aissue%20state%3Aclosed) of the [Discrub](https://github.com/prathercc/discrub-ext) extension for Chrome *& Firefox* for being a good chunk of my information & being an inspiration for this project respectively. <br>
-High praise to **John Gruber** & **Aaron Swartz**, creators of the [markdown file format](https://en.wikipedia.org/wiki/Markdown) and Garen Torikian, creator of the [MD Tutorial](https://www.markdowntutorial.com/lesson/1/) whose source code is found at their [respective repository](https://github.com/gjtorikian/markdowntutorial.com). <br>
-Best wishes for the [IETF](https://www.ietf.org/), main standardizer of the [CSV (Comma-separated values) filetype](https://en.wikipedia.org/wiki/Comma-separated_values), which is a somewhat standard format for storing data now. <br>
-Grant the hopes & dreams of the [contributors](https://github.com/discohook/discohook/graphs/contributors) & [initial creator](https://ko-fi.com/shayypy) of [Discohook](https://discohook.app) for letting me spam 5 webhooks at once with the letter "a" in my test Discord server so that I could test my scripts. <br>
-Heaven awaits the creator(s) of and the people who forfeit their wonderful works to [SVGrepo](https://svgrepo.com/) <br>
+Blessings to every maintainer, contributor, creator and sponser of the [Thorium Browser](https://thorium.rocks/), [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) and [Firefox](https://www.firefox.com/en-US/), which are the browsers I cannot decide between and thank for being available across so many platforms, and especially the up and coming [Ladybird Web Browser](https://ladybird.org/) which I wish I could back with more than just my words and can't wait for their 1.0 release someday.
+
+Special thanks and credits to [NTTS's video](https://www.youtube.com/watch?v=g5FbRfwMEuo) on this topic & The [creator(s)](https://github.com/prathercc) & [contributors](https://github.com/prathercc/discrub-ext/issues?q=is%3Aissue%20state%3Aclosed) of the [Discrub](https://github.com/prathercc/discrub-ext) extension for Chrome *& Firefox* for being a good chunk of my information & being an inspiration for this project respectively.
+
+High praise to **John Gruber** & **Aaron Swartz**, creators of the [markdown file format](https://en.wikipedia.org/wiki/Markdown) and Garen Torikian, creator of the [MD Tutorial](https://www.markdowntutorial.com/lesson/1/) whose source code is found at their [respective repository](https://github.com/gjtorikian/markdowntutorial.com).
+
+Best wishes for the [IETF](https://www.ietf.org/), main standardizer of the [CSV (Comma-separated values) filetype](https://en.wikipedia.org/wiki/Comma-separated_values), which is a somewhat standard format for storing data now.
+
+Grant the hopes & dreams of the [contributors](https://github.com/discohook/discohook/graphs/contributors) & [initial creator](https://ko-fi.com/shayypy) of [Discohook](https://discohook.app) for letting me spam 5 webhooks at once with the letter "a" in my test Discord server so that I could test my scripts.
+
+Heaven awaits the creator(s) of and the people who forfeit their wonderful works to [SVGrepo](https://svgrepo.com/)
 
 P.S. It took me longer than it should've to compile this readme file :3
