@@ -126,4 +126,6 @@ High praise to **John Gruber** & **Aaron Swartz**, creators of the [markdown fil
 
 Best wishes for the [IETF](https://www.ietf.org/), main standardizer of the [CSV (Comma-separated values) filetype](https://en.wikipedia.org/wiki/Comma-separated_values), which is a somewhat standard format for storing data now.
 
+Grant the hopes & dreams of the [contributors](https://github.com/discohook/discohook/graphs/contributors) & [initial creator](https://ko-fi.com/shayypy) of [Discohook](https://discohook.app) for letting me spam 5 webhooks at once with the letter "a" in my test Discord server so that I could test my scripts.
+
 P.S. It took me longer than it should've to compile this readme file :3
