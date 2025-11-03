@@ -15,7 +15,6 @@
   <p>Because it's more reasonable for someone to be deleting a message or 2, fetching messages & creating DMs with someone every 6-12 seconds than deleting <b>20 messages</b> in <em>3 seconds</em> and then waiting exactly the <a href="https://www.cloudflare.com/learning/bots/what-is-rate-limiting/">ratelimit</a> to proceed.</p>
 </details>
 
-<hr>
 <h2 id="discord-what-do-you-remember">"Discord, what do you remember?"</h2>
 <h3 id="chapter-rising">Chapter Rising</h3>
 <p>Let's gather what they (<em>Discord</em>) knows! (By requesting all the messages you've ever sent) <br></p>
