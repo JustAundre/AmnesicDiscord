@@ -82,7 +82,7 @@ async function delMsg(channelID, msgID, guild = "(option value not provided)") {
 
         const data = await response.json().catch(() => ({}));
         if (response.ok) {
-            log.push(`Deleted message ${msgID} from channel ${channelID} of guild ${guild}`);
+            log.push(`🗑️ Deleted message ${msgID} from channel ${channelID} of guild ${guild}`);
             return;
         } else if (response.status == 429) {
             const retryAfter = (data.retry_after || 2.5) * 1000 + 250;

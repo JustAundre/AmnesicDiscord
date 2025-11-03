@@ -81,7 +81,7 @@ async function delMsg(channelID, msgID) {
 
         const data = await response.json().catch(() => ({}));
         if (response.ok) {
-            log.push(`Deleted message ${msgID} from ${channelID}`);
+            log.push(`🗑️ Deleted message ${msgID} from ${channelID}`);
             return;
         } else if (response.status == 429) {
             const retryAfter = (data.retry_after || 2.5) * 1000 + 250;

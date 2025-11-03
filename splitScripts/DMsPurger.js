@@ -103,7 +103,7 @@ async function delMsg(channelID, MIDList) {
         });
 
         if (response.ok) {
-            log.push(`💬 Message ${MIDList} deleted for user ${userID}`);
+            log.push(`🗑️ Message ${MIDList} deleted for user ${userID}`);
             return;
         } else if (response.status == 429) {
             const data = await response.json().catch(() => ({}));
