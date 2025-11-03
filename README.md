@@ -133,7 +133,7 @@ Last Page; Resolution <br>
 </details>
 
 <details>
-  <summary>(Limitations (Tangent) - Discord sucks 😩)</summary>
+  <summary>Limitations (Tangent) - Discord sucks 😩</summary>
 
   If Discord asks you to delete messages yourself, manually... That includes users you aren't friends with anymore but still have DMed even *once* or with deleted users which is only accessible by querying a search for all messages from your past self using the flexible global DMs search (which is ONLY AVAILABLE ON THE MOBILE APP 😩)
 
