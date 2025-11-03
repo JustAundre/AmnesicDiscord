@@ -1,5 +1,5 @@
 <h1>AmnesicDiscord: As per GDPR; forget me.</h1>
-<p>Discord remembers too well—let's sweep-the-leg them with the iconic duo, the leveraging of the <a href="https://gdpr-info.eu/art-17-gdpr/">GDPR</a> and the fact that their <a href="https://www.cloudflare.com/learning/security/api/what-is-an-api/">API</a> is basically accessible to every domain. <br></p>
+<p style="font-size: .85em; opacity: .8; margin: unset;">Discord remembers too well—let's sweep-the-leg them with the iconic duo, the leveraging of the <a href="https://gdpr-info.eu/art-17-gdpr/">GDPR</a> and the fact that their <a href="https://www.cloudflare.com/learning/security/api/what-is-an-api/">API</a> is basically accessible to every domain. <br></p>
 <details>
   <summary>⚠️🛑⚠️ <b>DISCLAIMER</b> ⚠️🛑⚠️</summary>
 
@@ -16,7 +16,7 @@
 </details>
 
 <h2 id="discord-what-do-you-remember">"Discord, what do you remember?"</h2>
-<h3 id="chapter-rising">Chapter Rising</h3>
+<h3 id="chapter-rising" style="font-size: .85em; opacity: .8; margin: unset;">Chapter Rising</h3>
 <p>Let's gather what they (<em>Discord</em>) knows! (By requesting all the messages you've ever sent) <br></p>
 <p>Desktop/Discord Web go <a href="https://support.discord.com/hc/en-us/articles/360004957991-Your-Discord-Data-Package#h_01JV2QTH9Q7VZPVXJ5SX9ZAEYD">here</a> <br></p>
 <p>Mobile users, you'll go <a href="https://support.discord.com/hc/en-us/articles/360004957991-Your-Discord-Data-Package#h_01JV2QTH9QYN9JKZ1D9KC22ZFT">here</a></p>
@@ -35,20 +35,21 @@
 <details>
   <summary>Command list</summary>
 
-  <pre><code># Debian/Ubuntu
-sudo apt update ; sudo apt install python3 python3-pip
+  <pre><code>
+  # Debian/Ubuntu
+  sudo apt update ; sudo apt install python3 python3-pip
 
-# Newer Red Hat/Fedora
-sudo dnf update ; sudo dnf install python3 python3-pip
-# Older Red Hat/Fedora
-sudo yum update ; sudo yum install python3 python3-pip
+  # Newer Red Hat/Fedora
+  sudo dnf update ; sudo dnf install python3 python3-pip
+  # Older Red Hat/Fedora
+  sudo yum update ; sudo yum install python3 python3-pip
 
-# Arch
-sudo pacman -Syu ; sudo pacman -Sy python python-pip
+  # Arch
+  sudo pacman -Syu ; sudo pacman -Sy python python-pip
 
-# Mac OS
-brew install python
-</code></pre>
+  # Mac OS
+  brew install python
+  </code></pre>
 </details>
 
 <p>Once you have the script(s) downloaded, and your data package extracted—move the script to the same folder as the <code>messages</code> folder (not inside of the <code>messages</code> folder) and run the script their readme.md file tells you to, in order to compile the list of users you've had private DMs with. <br></p>
@@ -60,9 +61,9 @@ brew install python
 
 <hr>
 <h2 id="discord-forget-that-please">"Discord, forget that please."</h2>
-<h3 id="chapter-climax">Chapter Climax</h3>
+<h3 id="chapter-climax" style="font-size: .85em; opacity: .8; margin: unset;">Chapter Climax</h3>
 <p>Let's remove the messages you <em>can't</em> access. For this, we'll be making support request/ticket with <a href="https://support.discord.com/hc/en-us/requests/new">Discord's Zendesk</a> <br></p>
-<p>Sign up for Zendesk and login, or just login if you already have an account (Refrain from uploading sensitive as much as possible, out of concern for dataleaks such as <a href="https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service.">this one</a>.)</p>
+<p>Sign up for Zendesk and login, or just login if you already have an account (avoid sending sensitive info as much as possible, find out why <a href="https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service.">here</a>.)</p>
 
 <details>
   <summary>Ticket template</summary>
@@ -97,7 +98,7 @@ Messages with invalid or incorrect message/channel IDs will not be processed.
 
 <hr>
 <h2 id="discord-forget-it-all-now">"Discord, forget it all. <em>Now.</em>"</h2>
-<h3 id="chapter-descent">Chapter Descent - <b>&lt;CODE IN ALPHA: NOT FINISHED&gt;</b></h3>
+<h3 id="chapter-descent" style="font-size: .85em; opacity: .8; margin: unset;">Chapter Descent - <b>&lt;CODE IN ALPHA: NOT FINISHED&gt;</b></h3>
 
 <details>
   <summary>Why choose this over something like Discrub?</summary>
@@ -111,7 +112,7 @@ Messages with invalid or incorrect message/channel IDs will not be processed.
 
 <hr>
 <h2 id="goodbye-discord">"Goodbye, Discord."</h2>
-<h3 id="last-page-resolution">Last Page; Resolution</h3>
+<h3 id="last-page-resolution" style="font-size: .85em; opacity: .8; margin: unset;">Last Page; Resolution</h3>
 <p><a href="https://support.discord.com/hc/en-us/articles/212500837-How-to-Delete-your-Discord-Account"><b>Delete your account.</b></a></p>
 
 <details>
@@ -140,4 +141,4 @@ Messages with invalid or incorrect message/channel IDs will not be processed.
   <p>If you know anything about a way to use the global DM search via API, which so far I've found to be only usable via the mobile frontend for Discord, please DM me on Github.</p>
 </details>
 
-<p>P.S. It took me longer than it should've to compile this readme file :3</p>
+<p style="font-size: .85em; opacity: .8; margin: unset;">P.S. It took me longer than it should've to compile this readme file :3</p>
