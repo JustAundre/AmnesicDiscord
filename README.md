@@ -30,9 +30,9 @@
   <p>Again, if you are not a Linux user & use Windows; you may ignore this.</p>
 </details>
 
-<p>If you haven't already, install <b>python3</b> from <a href="https://python.org">their webpage</a>; or alternatively, on Linux/Mac OS, using your package manager using one of the 3 comm& chains belonging to your respective base distribution; you'll need it to run the script.</p>
+<p>If you haven't already, install <b>python3</b> from <a href="https://python.org">their webpage</a>; or alternatively, on Linux/Mac OS, using your package manager using one of the 3 command chains belonging to your respective base distribution; you'll need it to run the script.</p>
 <details>
-  <summary>Comm& list</summary>
+  <summary>Command list</summary>
 
   <pre><code>
   # Debian/Ubuntu
